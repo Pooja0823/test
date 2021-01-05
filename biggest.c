@@ -2,7 +2,7 @@
  
 void big() {   
  
-  
+ //hi how are you 
     int a, b;  
     printf("\nPlease Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
